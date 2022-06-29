@@ -1,0 +1,15 @@
+1. Description: 
+   script use to run packmem, a python package that quantifies the 
+   hydrophobic defects of a lipid bilayer. The number of hydrophobic 
+   defects could be a contributer to passive lipid transport. 
+   One could imagine that a sizeable defect could create positive 
+   electrostatic interactions between a lipid and the defect. 
+   that being said these defects are typically short lived. 
+
+2. Instruction 
+   To use the script one must have download packmem, and define 
+   the appropriate paths, where packmem is stored, where you have 
+   your trajectories. Look up packmems documentation for further detail 
+   on its use.
+
+
